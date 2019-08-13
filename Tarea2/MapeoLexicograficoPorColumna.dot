@@ -1,8 +1,8 @@
 digraph structs {
 rankdir=LR;
- node [shape=plaintext]
+ node [shape= record, width=.1,height=.1];
  struct1 [label=<
-<TABLE bgcolor="gray">
+<TABLE>
 <tr>
  <td>(0,0):0</td>
  <td>(0,1):1</td>
@@ -14,7 +14,7 @@ rankdir=LR;
  <td>(1,3):7</td>
  <td>(2,0):8</td>
  <td>(2,1):9</td>
- <td bgcolor="red">(2,2):10</td>
+ <td bgcolor="blue">(2,2):10</td>
  <td>(2,3):11</td>
  <td>(3,0):12</td>
  <td>(3,1):13</td>

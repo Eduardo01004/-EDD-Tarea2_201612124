@@ -1,7 +1,7 @@
 digraph structs {
 node [shape=plaintext]
  struct1 [label=<
-<TABLE bgcolor="gray">
+<TABLE >
 <tr>
  <td>(0,0):0</td>
  <td>(0,1):4</td>
@@ -17,7 +17,7 @@ node [shape=plaintext]
 <tr>
  <td>(2,0):2</td>
  <td>(2,1):6</td>
- <td bgcolor="red">(2,2):10</td>
+ <td bgcolor="blue">(2,2):10</td>
  <td>(2,3):14</td>
 </tr>
 <tr>
